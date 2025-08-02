@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @adityamanoj1811
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on MHTCET
 - 📫 How to reach me adityamanoj1811@gmail.com
 
 <!---
